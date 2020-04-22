@@ -1,5 +1,5 @@
 {
-    "name": "UART-Integration-01",
+    "name": "UART-Integration-01-test",
     "description": "",
     "dependencies": {
         "core": "*",
